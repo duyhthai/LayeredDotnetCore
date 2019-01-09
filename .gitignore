@@ -1,6 +1,6 @@
 
-EA\.TMS/EA\.TMS\.Common/bin/
+bin/
 
 EA\.TMS/\.vs/
 
-EA\.TMS/EA\.TMS\.Common/obj/
+obj/

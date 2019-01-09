@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.TMS.Common", "EA.TMS.Common\EA.TMS.Common.csproj", "{3A0BDD28-D8DA-457C-A104-052F9527EB77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.TMS.Common", "EA.TMS.Common\EA.TMS.Common.csproj", "{3A0BDD28-D8DA-457C-A104-052F9527EB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.TMS.DataAccess", "EA.TMS.DAL\EA.TMS.DataAccess.csproj", "{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3A0BDD28-D8DA-457C-A104-052F9527EB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A0BDD28-D8DA-457C-A104-052F9527EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A0BDD28-D8DA-457C-A104-052F9527EB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

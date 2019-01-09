@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EA.TMS.Common", "EA.TMS.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.TMS.DataAccess", "EA.TMS.DAL\EA.TMS.DataAccess.csproj", "{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EA.TMS.Business", "EA.TMS.Business\EA.TMS.Business.csproj", "{1AF4DB7C-FEA1-453C-A4B8-C1F24429D5E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA2E6DD-5C81-4A7B-AB75-A7A10B117BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF4DB7C-FEA1-453C-A4B8-C1F24429D5E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF4DB7C-FEA1-453C-A4B8-C1F24429D5E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF4DB7C-FEA1-453C-A4B8-C1F24429D5E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF4DB7C-FEA1-453C-A4B8-C1F24429D5E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
